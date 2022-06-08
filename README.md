@@ -34,4 +34,4 @@
 # Video
 
 * [ZK7,zkEVM circuit arithmetization - Ye Zhang](https://www.youtube.com/watch?v=DT8g3veR17k&t=1127s)
-* [Amsterdam Stream]（https://streameth.tv/）
+* [Amsterdam Stream](https://streameth.tv/)
