@@ -35,3 +35,7 @@
 
 * [zkEVM circuit arithmetization - Ye Zhang](https://www.youtube.com/watch?v=DT8g3veR17k&t=1127s)
 * [Amsterdam Stream](https://streameth.tv/)
+
+# Language
+
+* [Chinese](https://github.com/LuozhuZhang/awesome-scroll-cn)
