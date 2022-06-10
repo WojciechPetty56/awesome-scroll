@@ -16,7 +16,7 @@
     </a>
   </p>
 
-  Scroll is an EVM-compatible zk-Rollup with a strong proving network
+  Scroll is An EVM-equivalent zk-Rollup with a strong proving network
 </div>
 
 # Official
