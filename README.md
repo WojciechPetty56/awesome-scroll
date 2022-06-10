@@ -28,7 +28,6 @@
 
 # Articles
 
-* [Scroll overview](https://scroll.io/blog/Scroll-Overview)
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
 
 # Video
