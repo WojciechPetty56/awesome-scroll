@@ -31,6 +31,8 @@
 
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
 
+* [Pre-alpha testnet](https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A)
+
 # Video
 
 * [zkEVM circuit arithmetization - Ye Zhang](https://www.youtube.com/watch?v=DT8g3veR17k&t=1127s)
