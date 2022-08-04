@@ -26,6 +26,7 @@
 * [Discord](https://discord.com/invite/CNzNVt4Feu)
 * [Github](https://github.com/scroll-tech)
 * [Jobs - We're hiring](https://jobs.lever.co/ScrollFoundation)
+* [Pre-alpha Testnet Registration](https://signup.scroll.io/)
 
 # Articles
 
